@@ -36,6 +36,7 @@ For this challenge I was asked to further analyze the election data to include t
 2. Calculate the percentage of votes from each county out of the total.
 3. Determine the county with the highest turnout.
 
-https://github.com/PSWil/Election_Analysis/blob/main/analysis/results_txt_output.png
+![Results](https://github.com/PSWil/Election_Analysis/blob/main/analysis/results_txt_output.png)
+
 
 ## Challenge Summary 
