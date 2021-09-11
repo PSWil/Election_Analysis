@@ -38,5 +38,12 @@ For this challenge I was asked to further analyze the election data to include t
 
 ![Results](https://github.com/PSWil/Election_Analysis/blob/main/analysis/results_txt_output.png)
 
+As you can see in the image above
+The voter turnout for each county was:
+
+- Jefferson produced 10.5% of voters, for a total of 38,855 voters.
+- Denver produced 82.8% of voters, for a total of 306,055 voters.
+- Arapahoe produced 6.7% of voters, for a total of 24,801 voters.
+- The county with the largest voter turnout was: Denver, which produced 82.8% of voters, for a total of 306,055 voters.
 
 ## Challenge Summary 
