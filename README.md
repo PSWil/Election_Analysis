@@ -43,7 +43,8 @@ The voter turnout for each county was:
 - Jefferson produced 10.5% of voters, for a total of 38,855 voters.
 - Denver produced 82.8% of voters, for a total of 306,055 voters.
 - Arapahoe produced 6.7% of voters, for a total of 24,801 voters.
-- The county with the largest voter turnout was: Denver, which produced 82.8% of voters, for a total of 306,055 voters.
+- The county with the largest voter turnout was: 
+  - Denver which lead the counties with 82.8% of the total votes.
 
 ## Challenge Summary 
 Now that we have a working script to analyze county election data we can adjust the script with ease to use for different elections.
@@ -52,3 +53,5 @@ This is one of the greatest benifits that analyzing the data with a script so th
 We can modify this script further for deeper analysis. If we knew the currentl amount of registered voters in each county, not just the total votes cast, we could get the voter turnout percentage for the county to see how engaged and active the voters are in each county with an if statement. We could then use that information to plan for the next election.
 
 We can also easily adapt this script so that we may apply it to different elections. For instance, in a local election for ie. County Sheriff, City Council we could modify the counties variable to show voters by neighboorhood. We can also scale this up to national elections by categorizing by state.
+
+If you have any questions or concers feel free to reach out to me so that I can be of some assistance, thank you.
