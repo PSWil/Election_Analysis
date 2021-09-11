@@ -2,7 +2,7 @@
 ##
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
+A Colorado Board of Elections employee has given me the following tasks to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
@@ -29,7 +29,6 @@ The analysis of the election show that:
   - Diana DeGette, who 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
-
 For this challenge I was asked to further analyze the election data to include the voter turnout by county.
 
 1. Calculate the voter turnout for each county.
@@ -47,3 +46,9 @@ The voter turnout for each county was:
 - The county with the largest voter turnout was: Denver, which produced 82.8% of voters, for a total of 306,055 voters.
 
 ## Challenge Summary 
+Now that we have a working script to analyze county election data we can adjust the script with ease to use for different elections.
+This is one of the greatest benifits that analyzing the data with a script so that in the future we can imput the data and gather information much more quickly. With a little tinkering we can adjust the script to analyze the data further and use it in future elections for fast analysis.
+
+We can modify this script further for deeper analysis. If we knew the currentl amount of registered voters in each county, not just the total votes cast, we could get the voter turnout percentage for the county to see how engaged and active the voters are in each county with an if statement. We could then use that information to plan for the next election.
+
+We can also easily adapt this script so that we may apply it to different elections. For instance, in a local election for ie. County Sheriff, City Council we could modify the counties variable to show voters by neighboorhood. We can also scale this up to national elections by categorizing by state.
